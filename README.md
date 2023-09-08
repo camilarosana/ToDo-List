@@ -1,0 +1,1 @@
+Projeto de uma ToDo List com Html, Css e Javascript puro para praticar e aprimorar os conhecimentos adquiridos até o momento.
